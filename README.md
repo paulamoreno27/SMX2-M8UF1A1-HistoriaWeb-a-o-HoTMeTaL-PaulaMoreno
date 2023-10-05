@@ -9,5 +9,5 @@ Es un programa de edición de texto el cual usa codigos HTML, este programa fue 
 Se utiliza para crear y editar paginas webs. Actualmente este programa no se utiliza a penas ya que de hoy en dia podemos encontrar otros programas más modernos y con mejores herramientas de trabajo.
 
 
-**INFORMACIÓN EXTRA**
+**INFORMACIÓN EXTRA:**
 Como podemos ver el nombre HoTMeTaL hace referencia a HTML, como ya he dicho antes, HoTMeTaL contiene codigos de HTML.
