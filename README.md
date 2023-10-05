@@ -1,7 +1,7 @@
 # SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno
-# HoTMeTaL
+# HoTMetaL
 
-**¿QUÉ ES HoTMeTaL?**
+**¿QUÉ ES HoTMetaL?**
 Es un programa de edición de texto el cual usa códigos HTML, este programa fue lanzado por SoftQuad Software en 1994 en Toronto, Canadá. Este programa es uno de los primeros programas que contenían WYSIWYG (What You See In What  You Get).
 ![Imagen HTML, softquad software y hotmetal](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno/blob/main/Captura%20de%20pantalla%202023-10-05%20223245.png "Imagen HTML, softquad software y hotmetal")
 
@@ -14,6 +14,6 @@ Se utiliza para crear y editar páginas webs. Actualmente este programa va por l
 
 
 **INFORMACIÓN EXTRA:**
-Como podemos ver el nombre HoTMeTaL hace referencia a HTML, como ya he dicho antes, HoTMeTaL contiene codigos de HTML.
+Como podemos ver el nombre HoTMetaL hace referencia a HTML, como ya he dicho antes, HoTMetaL contiene codigos de HTML.
 
 ![Imagen HoTMeTaL=HTML](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno/blob/main/Captura%20de%20pantalla%202023-10-05%20225245.png "Imagen HoTMeTaL=HTML")
