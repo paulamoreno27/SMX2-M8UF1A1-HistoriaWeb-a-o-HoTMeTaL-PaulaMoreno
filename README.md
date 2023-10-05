@@ -4,7 +4,6 @@
 **QUE ES HoTMeTaL?**
 
 Es un programa de edición de texto el cual usa codigos HTML, este programa fue lanzado por SoftQuad Software en 1994 en Toronto, Canada. Este programa es uno de los primeros programas que contenian WYSIWYG (What You See In What  You Get).
-![Imagen softquad software](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno/blob/main/SoftQuad_Software_logo.svg.png "SoftQuad Software")
 
 
 **PARA QUE SE UTILIZA?**
