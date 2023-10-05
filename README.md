@@ -13,4 +13,5 @@ Se utiliza para crear y editar páginas webs. Actualmente este programa va por l
 
 **INFORMACIÓN EXTRA:**
 Como podemos ver el nombre HoTMeTaL hace referencia a HTML, como ya he dicho antes, HoTMeTaL contiene codigos de HTML.
+
 ![Imagen HoTMeTaL=HTML](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno/blob/main/Captura%20de%20pantalla%202023-10-05%20225245.png "Imagen HoTMeTaL=HTML")
