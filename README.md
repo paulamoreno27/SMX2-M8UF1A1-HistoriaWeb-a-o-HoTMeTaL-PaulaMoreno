@@ -8,7 +8,7 @@ Es un programa de edición de texto el cual usa códigos HTML, este programa fue
 
 
 **¿PARA QUE SE UTILIZA?**
-Se utiliza para crear y editar páginas webs. Actualmente este programa no se utiliza a penas ya que de hoy en día podemos encontrar otros programas más modernos y con mejores herramientas de trabajo.
+Se utiliza para crear y editar páginas webs. Actualmente este programa va por la versión 6, pero ya no se utiliza ya que de hoy en día podemos encontrar otros programas más modernos y con mejores herramientas de trabajo.
 
 
 **INFORMACIÓN EXTRA:**
