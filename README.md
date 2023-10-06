@@ -1,6 +1,13 @@
 # SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno
 # HoTMetaL
 
+```
+1. ¿Qué es HoTMetaL?
+2. ¿Para que se utiliza?
+3. Información extra
+
+
+
 
 **¿QUÉ ES HoTMetaL?**
 Es un programa de edición de texto el cual usa códigos HTML, este programa fue lanzado por SoftQuad Software en 1994 en Toronto, Canadá. Este programa es uno de los primeros programas que contenían WYSIWYG (What You See In What  You Get).
