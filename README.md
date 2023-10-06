@@ -1,7 +1,7 @@
 # SMX2-M8UF1A1-HistoriaWeb-a-o-HoTMeTaL-PaulaMoreno
 # HoTMetaL
 
-## INDICE:
+###### INDICE:
 ```
 1. ¿Qué es HoTMetaL?
 2. ¿Para que se utiliza?
