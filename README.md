@@ -2,10 +2,11 @@
 # HoTMetaL
 
 ```
+## INDICE:
 1. ¿Qué es HoTMetaL?
 2. ¿Para que se utiliza?
 3. Información extra
-
+```
 
 
 
